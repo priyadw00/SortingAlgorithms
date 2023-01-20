@@ -1,3 +1,1 @@
-I actually felt really good about this assignment! I think this might be the first time i've fully completed all the steps of the assingment, and that is super satisfying to be able to do. 
-
-I didn't really understand the vast ness of the difference in time betwen the algorithms when i was running them i smaller  numbers. When i jumped to 100,000  cards I was shocked that merge short did what insertion sort took a minute to do in a second - I ran them both a bunch of times to check if i was doing something wrong, but I wasn't. That helped me better understand the necessity of using the fastest algorithm in many cases. 
+Implements 3 sorting algorithms: selection sort, insertion sort, and quicksort. 
