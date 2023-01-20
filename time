@@ -1,0 +1,63 @@
+InsertionSortTimer 1000
+
+real    0m0.099s
+user    0m0.115s
+sys 0m0.080s
+
+QuickSortTimer 1000:
+real    0m0.109s
+user    0m0.077s
+sys 0m0.032s
+
+SelectionSortTimer 1000:
+real    0m0.093s
+user    0m0.103s
+sys 0m0.023s
+
+
+MergeSortTimer 1000
+real    0m0.069s
+user    0m0.059s
+sys 0m0.070s
+
+
+
+
+ 
+
+
+
+ time java MergeSortTimer 10000
+
+real    0m0.131
+user    0m0.177
+sys 0m0.068
+ 
+
+10,000 
+Insertion: 0.526
+Merge: 0.171
+Quick: 0.366 
+Selection: 0.475
+
+20,000
+Insertion:0.519s
+Merge: 0.285s
+Quick: 0.682 
+Selection: 0m1.797s
+
+40,000
+Insertion: 0m6.098s
+Merge: 0m0.267s
+Quick: 0m1.366s
+Selection: 0m6.898s 
+
+100,000
+Insertion: 1m1.263s 
+Merge: 0m0.805s 
+Quick: 0m3.099s
+Selection: 0m42.082s
+
+
+
+
