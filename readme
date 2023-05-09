@@ -1,5 +1,5 @@
 DESCRIPTION: 
-Implements 3 sorting algorithms: selection sort, insertion sort, and quicksort; times each sorting method to compare speeds/ 
+Implements 3 sorting algorithms: selection sort, insertion sort, and quicksort; times each sorting method to compare speeds. 
 
 CONTRIBUTORS: 
 Priya Dalal-Whelan 
